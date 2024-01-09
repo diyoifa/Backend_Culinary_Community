@@ -1,4 +1,4 @@
-## RecipeHub: Culinary Community & Recipe Management Platform
+# RecipeHub: Culinary Community & Recipe Management Platform
 
 ## Description
 
@@ -9,63 +9,63 @@ This platform empowers users to create, modify, and delete their recipes, foster
 
 ## Functional Requirements:
 
-# User Authentication and Authorization:
--**Users should be able to** register, log in, and log out.
--**Authentication mechanisms** should ensure secure access to personal profiles and recipe management.
+## User Authentication and Authorization:
+--**Users should be able to** register, log in, and log out.
+--**Authentication mechanisms** should ensure secure access to personal profiles and recipe management.
 
-# Recipe Management:
+## Recipe Management:
 
--**Users can:** create, view, edit, and delete their recipes.
--**Recipes should include:** fields for title, ingredients, instructions, cooking time, difficulty level, category, and optional images.
+--**Users can:** create, view, edit, and delete their recipes.
+--**Recipes should include:** fields for title, ingredients, instructions, cooking time, difficulty level, category, and optional images.
 
 
-# Search and Filtering:
+## Search and Filtering:
 
--**A search functionality** allowing users to search for recipes based on keywords, ingredients, or tags.
--**Filtering and sorting options:** for recipes by categories (e.g., cuisine type, dietary preferences, meal type).
+--**A search functionality** allowing users to search for recipes based on keywords, ingredients, or tags.
+--**Filtering and sorting options:** for recipes by categories (e.g., cuisine type, dietary preferences, meal type).
 
-# Social Interaction:
+## Social Interaction:
 
--**Users can** view a feed of recipes and to share also Ability to like and comment on
+--**Users can** view a feed of recipes and to share also Ability to like and comment on
 
-# User Profile:
+## User Profile:
 
--**Profiles for each user** displaying their created recipes
+--**Profiles for each user** displaying their created recipes
 
-## Non-Functional Requirements:
+## Non--Functional Requirements:
 
-# Performance:
+## Performance:
 
--**Fast response times** for loading recipes and performing actions on the platform.
--**Scalability** to handle a growing user base and recipe database.
+--**Fast response times** for loading recipes and performing actions on the platform.
+--**Scalability** to handle a growing user base and recipe database.
 
-# Security:
+## Security:
 
--**Secure authentication and authorization** mechanisms to protect user data.
--**Encryption of sensitive information** like user credentials and personal details.
--**Prevention of common web vulnerabilities** (SQL injection, XSS, CSRF, etc.).
+--**Secure authentication and authorization** mechanisms to protect user data.
+--**Encryption of sensitive information** like user credentials and personal details.
+--**Prevention of common web vulnerabilities** (SQL injection, XSS, CSRF, etc.).
 
-# Usability and User Experience:
+## Usability and User Experience:
 
--**Intuitive and user-friendly interface** for easy navigation and interaction.
--**Consistent design and responsiveness** across various devices and screen sizes.
+--**Intuitive and user--friendly interface** for easy navigation and interaction.
+--**Consistent design and responsiveness** across various devices and screen sizes.
 
-# Reliability:
+## Reliability:
 
--**High availability and minimal downtime** for users accessing the platform.
+--**High availability and minimal downtime** for users accessing the platform.
 
-# Data Integrity:
+## Data Integrity:
 
--**Data validation** to ensure the integrity of information entered by users.
+--**Data validation** to ensure the integrity of information entered by users.
 
-# Scalability:
+## Scalability:
 
--**Ability to accommodate an increasing number** of users, recipes, and interactions without compromising performance.
+--**Ability to accommodate an increasing number** of users, recipes, and interactions without compromising performance.
 
 # Technology Stack:
 
--**Utilizing FastAPI for the backend**, following the Model-View-Controller (MVC) architectural pattern and applying SOLID principles to ensure a robust and maintainable codebase. as well as Mysql for the data manipulation
+--**Utilizing FastAPI for the backend**, following the Model--View--Controller (MVC) architectural pattern and applying SOLID principles to ensure a robust and maintainable codebase. as well as Mysql for the data manipulation
 
--**For the frontend development, Angular will be employed**, leveraging its component composition approach and standalone modules architecture
+--**For the frontend development, Angular will be employed**, leveraging its component composition approach and standalone modules architecture
 
--**Optimize the technology stack** for efficiency, scalability, and maintainability.
+--**Optimize the technology stack** for efficiency, scalability, and maintainability.
