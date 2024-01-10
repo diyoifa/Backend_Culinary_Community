@@ -1,6 +1,6 @@
 # RecipeHub: Culinary Community & Recipe Management Platform
 
-### Description
+## Description
 
 RecipeHub is a dynamic web application aimed at bringing together food enthusiasts, offering a seamless platform to explore, share, and manage culinary creations. Users can discover an extensive array of recipes contributed by the community, easily filter them based on categories, and engage with others by sharing their own recipes.
 
@@ -69,3 +69,7 @@ This platform empowers users to create, modify, and delete their recipes, foster
 - **For the frontend development, Angular will be employed**, leveraging its component composition approach and standalone modules architecture
 
 - **Optimize the technology stack** for efficiency, scalability, and maintainability.
+
+
+# MySQL DATABASE DESIGN
+![Alt text](image.png)
